@@ -1,0 +1,6 @@
+! name: Oskar
+! description: Remove sites I don't like
+! public: true
+! author: Okuno Oskar
+
+$discard,site=pinterest.at
